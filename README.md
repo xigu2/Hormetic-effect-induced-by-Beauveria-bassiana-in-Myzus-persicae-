@@ -308,7 +308,7 @@ This is the raw data for paper Hormetic effect induced by Beauveria bassiana in 
 																																																																		
 																																																																		
 																																																																		
-Development time and fecundity at G1 (Figure 3)																																																																		
+###Development time and fecundity at G1 (Figure 3)																																																																		
 																																																																		
 	Control GPA R-									Fecundity F1 Aphids Monitoring								10^4 conidia/mL GPA R-									Fecundity F1 Aphids Monitoring								6*10^6 conidia/mL  GPA R-									Fecundity F1 Aphids Monitoring								10^8 conidia/mL GPA R-									Fecundity F1 Aphids Monitoring					
 	Day	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14		Day	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14		Day	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14		Day	0	1	2	3	4	5	6	7	8	9	10	11	12	13
@@ -354,7 +354,7 @@ Development time and fecundity at G1 (Figure 3)
 	Replicate 20										2	3	4	3	3	4		Replicate 17									4	5	5	6	7	6	7		Replicate 19									4	5	6	6	4	7																	
 	The green color covered until the aphid produce first nymphs																		Replicate 18								2	5	5	8	4	5	9	4		Replicate 20									4	4	9	4	5	9																
 																			Replicate 19									3	5	6	1	5	6	6																																
-	whole plant experiment																		Replicate 20								1	7	6	6	5	7	7	5																																
+	###whole plant experiment																		Replicate 20								1	7	6	6	5	7	7	5																																
 	Day	Genotype_ID + Replicate	Age (Days)	Treatment	Endosymbiont	Surviving 	Fecundity	Fecundity Rate	Notes																																																									
 	0	GPA_08_1	8	Control	R-	5	0	0.0																																																										
 	0	GPA_26_1	8	Control	R-	5	0	0.0																																																										
